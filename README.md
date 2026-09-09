@@ -107,12 +107,7 @@ This tool is **finance-aware**. The prompt guides the LLM to:
 
 ---
 
-## 👤 Author
 
-- [Rakshith Santosh](https://www.linkedin.com/in/rak-99-s)
-- [GitHub](https://github.com/rakshithsantosh)
-
----
 
 ## 📄 License
 
