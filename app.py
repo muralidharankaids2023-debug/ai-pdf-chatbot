@@ -200,8 +200,8 @@ def main():
 
     if 'conversation_history' not in st.session_state:
         st.session_state.conversation_history = []
-    linkedin_profile_link = "https://www.linkedin.com/in/rak-99-s"
-    github_profile_link = "https://github.com/rakshithsantosh"
+    linkedin_profile_link = "https://www.linkedin.com/in/muralidharan-k-a26366291/"
+    github_profile_link = "https://github.com/muralidharankaids2023-debug"
 
     st.sidebar.markdown(
         f"[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]({linkedin_profile_link}) "
