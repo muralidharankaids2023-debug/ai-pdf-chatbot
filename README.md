@@ -23,8 +23,8 @@ Interact with multiple PDF files using powerful AI models like **Gemini 1.5 (Goo
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/rakshithsantosh/pdf-chatbot-gemini.git
-cd pdf-chatbot-gemini
+git clone https://github.com/muralidharankaids2023-debug/ai-pdf-chatbot.git
+cd ai-pdf-chatbot
 ```
 
 ### 2. Set Up a Virtual Environment
